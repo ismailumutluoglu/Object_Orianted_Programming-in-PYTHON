@@ -3,7 +3,6 @@
 class Footballer:
     
     football_club = "REALMADRID"
-    
     age = 30 #classa özgü özellik attributes
 
 footballer1 = Footballer()
